@@ -3,7 +3,7 @@
 
 #### Discussion
 
-Please use the public GitHub issues of the to discuss, report and request anything related to the beta app.
+Please use the public GitHub issues to discuss, report and request anything related to the beta app.
 
 https://github.com/dresden-elektronik/deconz-rest-plugin/issues
 
