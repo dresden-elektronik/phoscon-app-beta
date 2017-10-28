@@ -9,11 +9,11 @@ https://github.com/dresden-elektronik/deconz-rest-plugin/issues
 
 
 ## Requirements
-* tablet in landscape mode or PC (mobile phone and tablet portrait mode in progress)
+* tablet in landscape mode or PC
 * supported Browsers: Chrome, Firefox, Safari and Samsung Browser
-* Raspberry Pi 2/3 or PC with Ubuntu
+* Raspberry Pi 2/3 or PC with Ubuntu/Windows
 * RaspBee or ConBee with latest firmware
-* recent beta version of deCONZ, for install instructions refer to:
+* most recent beta version of deCONZ, for install instructions refer to:
 
    https://github.com/dresden-elektronik/deconz-rest-plugin 
    
@@ -23,12 +23,12 @@ To try the new app open the following link:
 http://www.dresden-elektronik.de/pwa
 
 
-This preliminary login page shows connectes gateways. Initially the search may take a few minutes.
+This preliminary login page shows connected gateways. Initially the search may take a few minutes; the search can be repeated by clicking the Phoscon logo.
 
 Select your your gateway and login with its password (default: delight).
 
-**Note** By clicking on the Phoscon logo the search can be repeated.
-
+#### Install on homescreen
+On mobile devices the app can be "installed" on homescreen from the menu in Safari, Chrome or Samsung browser.
 
 ## Notes
 
@@ -43,7 +43,9 @@ Select your your gateway and login with its password (default: delight).
 
 The following features are not available in public yet or currently worked on:
 
+* mobile phone and tablet portrait mode
 * motion sensor control configuration is functional but only 50% of the UI is implemented
 * Philips Hue Tap setup and configuration
-* IKEA TRADFRI setup wizards missing images
-* schedules
+* ~~IKEA TRADFRI setup wizards missing images~~
+* ~~schedules~~
+* IKEA Tradfri E27 CWS color bulb sliders moving back
