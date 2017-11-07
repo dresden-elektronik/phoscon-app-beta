@@ -9,11 +9,11 @@ https://github.com/dresden-elektronik/deconz-rest-plugin/issues
 
 
 ## Requirements
-* tablet in landscape mode or PC
+* phone, tablet ~~in landscape mode~~ or PC
 * supported Browsers: Chrome, Firefox, Safari and Samsung Browser
 * Raspberry Pi 2/3 or PC with Ubuntu/Windows
 * RaspBee or ConBee with latest firmware
-* most recent beta version of deCONZ, for install instructions refer to:
+* most recent beta version of deCONZ, for install instructions (steps 1&ndash;3) refer to:
 
    https://github.com/dresden-elektronik/deconz-rest-plugin 
    
@@ -43,7 +43,7 @@ On mobile devices the app can be "installed" on homescreen from the menu in Safa
 
 The following features are not available in public yet or currently worked on:
 
-* mobile phone and tablet portrait mode
+* ~~mobile phone and tablet portrait mode~~
 * motion sensor control configuration is functional but only 50% of the UI is implemented
 * Philips Hue Tap setup and configuration
 * ~~IKEA TRADFRI setup wizards missing images~~
