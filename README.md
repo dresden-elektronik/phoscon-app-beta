@@ -9,7 +9,7 @@ https://github.com/dresden-elektronik/deconz-rest-plugin/issues
 
 
 ## Requirements
-* phone, tablet ~~in landscape mode~~ or PC
+* phone, tablet or PC
 * supported Browsers: Chrome, Firefox, Safari and Samsung Browser
 * Raspberry Pi 2/3 or PC with Ubuntu/Windows
 * RaspBee or ConBee with latest firmware
