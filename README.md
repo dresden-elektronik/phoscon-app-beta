@@ -39,6 +39,15 @@ On mobile devices the app can be "installed" on homescreen from the menu in Safa
 * The app works offline once loaded for the first time (via HTML5 AppCache).
 * The app is served via HTTP instead of HTTPS for various technical reasons. We plan to switch to HTTPS after WebRTC will be available in all major browsers.
 
+#### Update 20 Nov 2017
+
+* mobile support for phone and tablet portrait mode has progressed a lot for various screens
+* usability of navigation and sidemenu is more linear
+* schedules is now available for tablet and PC
+* scene editor uses manual saving now and won't just call the first scene on enter
+* heaps of smaller bug fixes and improments
+* with deCONZ 2.04.90 espeacially mobile devices will notice speed improvements when accessing the API (TCP_NODELAY)
+
 ## Work in progress
 
 The following features are not available in public yet or currently worked on:
@@ -49,3 +58,8 @@ The following features are not available in public yet or currently worked on:
 * ~~IKEA TRADFRI setup wizards missing images~~
 * ~~schedules~~
 * IKEA Tradfri E27 CWS color bulb sliders moving back
+* time ranges for motion sensor controls
+* editor to connect arbitrary switch buttons to various actions, like calling a scene, disable sensors controls, etc.
+* using the app with Firefox 57 on mobile is very slow for some unknown reason: under investigation
+
+
