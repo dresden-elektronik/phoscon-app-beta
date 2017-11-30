@@ -39,6 +39,18 @@ On mobile devices the app can be "installed" on homescreen from the menu in Safa
 * The app works offline once loaded for the first time (via HTML5 AppCache).
 * The app is served via HTTP instead of HTTPS for various technical reasons. We plan to switch to HTTPS after WebRTC will be available in all major browsers.
 
+#### Update 30 Nov 2017
+
+* fix various issues in scene editor for groups and switches
+* discard changes in scene editor works reliable now
+* add +/- buttons to manage lights page to change group membership faster (drag&drop works beside that too)
+* add manual saving of group membership changes in manage lights page
+* new Philips Hue motion sensor setup wizard (wip)
+* fix bugs in schedules page
+* faster discover gateway site
+* improved `Help > Reset lights` wizard pages
+* fix many smaller ui glitches
+
 #### Update 20 Nov 2017
 
 * mobile support for phone and tablet portrait mode has progressed a lot for various screens
@@ -46,7 +58,7 @@ On mobile devices the app can be "installed" on homescreen from the menu in Safa
 * schedules is now available for tablet and PC
 * scene editor uses manual saving now and won't just call the first scene on enter
 * heaps of smaller bug fixes and improments
-* with deCONZ 2.04.90 espeacially mobile devices will notice speed improvements when accessing the API (TCP_NODELAY)
+* with deCONZ 2.04.90 especially mobile devices will notice speed improvements when accessing the API (TCP_NODELAY)
 
 ## Work in progress
 
