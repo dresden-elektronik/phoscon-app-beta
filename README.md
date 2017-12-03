@@ -39,6 +39,20 @@ On mobile devices the app can be "installed" on homescreen from the menu in Safa
 * The app works offline once loaded for the first time (via HTML5 AppCache).
 * The app is served via HTTP instead of HTTPS for various technical reasons. We plan to switch to HTTPS after WebRTC will be available in all major browsers.
 
+#### Update 3 Dec 2017
+
+**Sensor control**
+* motion sensor transitions are visualized in a diagram now
+* improved transition list to be less cryptic; show action, dimm value and state times
+* next on the list:
+    + better ui to configure interaction between switches, motion- and contact sensors
+    + support calling scenes as transition
+
+* fix issue when renaming a group with a single light will actually rename the light
+* small improvements in schedules editor
+* fix some Firefox related ui issues
+
+
 #### Update 30 Nov 2017
 
 * fix various issues in scene editor for groups and switches
