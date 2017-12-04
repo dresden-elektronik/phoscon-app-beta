@@ -39,6 +39,10 @@ On mobile devices the app can be "installed" on homescreen from the menu in Safa
 * The app works offline once loaded for the first time (via HTML5 AppCache).
 * The app is served via HTTP instead of HTTPS for various technical reasons. We plan to switch to HTTPS after WebRTC will be available in all major browsers.
 
+#### Update 4 Dec 2017
+
+* Phoscon App Beta goes public
+
 #### Update 3 Dec 2017
 
 **Sensor control**
