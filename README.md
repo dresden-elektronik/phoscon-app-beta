@@ -15,8 +15,8 @@ https://github.com/dresden-elektronik/deconz-rest-plugin/issues
 * RaspBee or ConBee with latest firmware
 * most recent beta version of deCONZ, for install instructions (steps 1&ndash;3) refer to:
 
-   https://github.com/dresden-elektronik/deconz-rest-plugin 
-   
+   https://github.com/dresden-elektronik/deconz-rest-plugin#introduction
+   
 ## Usage
 To try the new app open the following link:
 
