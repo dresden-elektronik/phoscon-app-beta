@@ -39,6 +39,15 @@ On mobile devices the app can be "installed" on homescreen from the menu in Safa
 * The app works offline once loaded for the first time (via HTML5 AppCache).
 * The app is served via HTTP instead of HTTPS for various technical reasons. We plan to switch to HTTPS after WebRTC will be available in all major browsers.
 
+#### Update 10 Dec 2017
+
+* new icons for Xiaomi sensors
+* updated manuals for RaspBee and ConBee
+* smaller bug fixes in schedules and manage lights pages
+* a copy of the Phoscon App is now included in deCONZ package (since version 2.04.97)
+* to open it use the `Phoscon App` button in deCONZ or navigate to `http://<ip-address>:<port>/pwa`
+* the former WebApp lives next to it at `http://<ip-address>:<port>`
+
 #### Update 4 Dec 2017
 
 * Phoscon App Beta goes public
