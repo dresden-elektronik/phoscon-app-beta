@@ -1,9 +1,13 @@
 # Phoscon App Beta
 
-This repository is no longer maintained.
-The Phoscon App is out of beta since 2018.
+This repository is reactivated for you. 
+The Phoscon App has a new beta version there you can test now.
 
-Please refer to the following locations for up to date content:
+#### Phoscon App Beta
+<https://phoscon.de/pwabeta>
+
+#### Phoscon App Stable
+<https://phoscon.de/pwa>
 
 #### Phoscon App Documentation
 <https://phoscon.de/app/doc>
