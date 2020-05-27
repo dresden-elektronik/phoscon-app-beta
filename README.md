@@ -6,6 +6,9 @@ The Phoscon App has a new beta version there you can test now.
 #### Phoscon App Beta
 <https://phoscon.de/pwabeta>
 
+If you have problems to connect you can do the following
+http://phoscon.de/pwa/login.html#host/<ip adress>:<port>
+
 #### Phoscon App Stable
 <https://phoscon.de/pwa>
 
