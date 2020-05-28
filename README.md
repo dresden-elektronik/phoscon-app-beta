@@ -4,10 +4,10 @@ This repository is reactivated for you.
 Here is a beta version of the Phoscon App where you can test new features.
 
 #### Phoscon App Beta
-<https://phoscon.de/pwabeta>
+<http://phoscon.de/pwabeta>
 
 #### Phoscon App Stable
-<https://phoscon.de/pwa>
+<http://phoscon.de/pwa>
 
 #### Phoscon App Documentation
 <https://phoscon.de/app/doc>
