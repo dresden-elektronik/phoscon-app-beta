@@ -1,7 +1,7 @@
 ---
 name: Device Request
 about: Request a new device to be supported.
-title: [DEVICE REQUEST]"Device name"
+title: "[DEVICE REQUEST]Device name"
 labels: Device Request
 assignees: ''
 
