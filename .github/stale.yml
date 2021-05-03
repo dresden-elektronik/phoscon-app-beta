@@ -4,10 +4,6 @@ daysUntilStale: 21
 daysUntilClose: 7
 # Issues with these labels will never be considered stale
 exemptLabels:
-  - To-Do
-  - Backlog
-  - Feature Request
-  - Awaiting Merge
   - Announcement
 # Label to use when marking an issue as stale
 staleLabel: stale
