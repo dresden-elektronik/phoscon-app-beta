@@ -8,6 +8,8 @@ Here is a beta version of the Phoscon App where you can test new features.
 
 If you have problems with the connection try this: <br/> phoscon.de/pwabeta/login.html#host/&lt;local-ip-adress&gt;:&lt;port&gt;
 
+By using deCONZ Add-on in Home Assistant you need to go to Supervisor > Dashboard (or Add-on Store) > deCONZ > Configuration > Network > type 40850 as host at "deCONZ API backend". Then use the link including ip & port as shown above.
+
 #### Phoscon App Stable
 <http://phoscon.de/pwa>
 
