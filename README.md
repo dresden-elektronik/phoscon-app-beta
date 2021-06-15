@@ -11,7 +11,7 @@ If you have problems with the connection try this: <br/> phoscon.de/pwabeta/logi
 #### Phoscon App Stable
 <http://phoscon.de/pwa>
 
-If you have problems with the connection. Use the link including ip & port as shown above.
+If you have problems with the connection. <br/> Use the link including ip & port as shown above.
 
 #### Phoscon App Documentation
 <https://phoscon.de/app/doc>
