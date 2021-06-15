@@ -19,7 +19,7 @@ If you have problems with the connection. <br/> Use the link including ip & port
 #### deCONZ REST-API Plugin Repository
 <https://github.com/dresden-elektronik/deconz-rest-plugin>
 
-### By using deCONZ Add-on in Home Assistant
+#### By using deCONZ Add-on in Home Assistant
 * go to Supervisor
   * Dashboard (or Add-on Store) &rarr; deCONZ &rarr; Configuration &rarr; Network
 * type 40850 as host at "deCONZ API backend"
