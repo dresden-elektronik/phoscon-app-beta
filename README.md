@@ -27,5 +27,6 @@ If you have problems with the connection. <br/> Use the link including ip & port
 Then use the link including ip & port as shown above.
 
 #### Get more help
+* https://phoscon.de/de/support
 * https://forum.phoscon.de/
 * https://discord.com/invite/APNK5TM
