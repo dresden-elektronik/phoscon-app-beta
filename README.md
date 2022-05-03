@@ -1,12 +1,11 @@
-# Phoscon App Beta
+# Phoscon App 
 
-This repository is reactivated for you. 
-Here is a beta version of the Phoscon App where you can test new features.
+This repository is closed.
 
-#### Phoscon App Beta
-<http://phoscon.de/pwabeta>
-
-If you have problems with the connection try this: <br/> phoscon.de/pwabeta/login.html#host/&lt;local-ip-adress&gt;:&lt;port&gt;
+#### Get more help
+* https://phoscon.de/de/support
+* https://forum.phoscon.de/
+* https://discord.com/invite/APNK5TM
 
 #### Phoscon App Stable
 <http://phoscon.de/pwa>
@@ -25,8 +24,3 @@ If you have problems with the connection. <br/> Use the link including ip & port
 * type 40850 as host at "deCONZ API backend"
 
 Then use the link including ip & port as shown above.
-
-#### Get more help
-* https://phoscon.de/de/support
-* https://forum.phoscon.de/
-* https://discord.com/invite/APNK5TM
