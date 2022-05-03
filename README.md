@@ -1,11 +1,11 @@
 # Phoscon App 
 
-This repository is closed.
+This repository is closed, please refer to https://phoscon.de/forum for topics related to the Phoscon App.
 
 #### Get more help
-* https://phoscon.de/de/support
 * https://forum.phoscon.de/
 * https://discord.com/invite/APNK5TM
+* https://phoscon.de/de/support
 
 #### Phoscon App Stable
 <http://phoscon.de/pwa>
